@@ -17,6 +17,7 @@
     "superagent-throttle": "0.2.5"
   },
   "devDependencies": {
-    "chalk": "2.4.0"
+    "chalk": "2.4.0",
+    "errto": "0.2.1"
   }
 }
