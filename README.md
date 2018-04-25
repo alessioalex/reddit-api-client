@@ -38,6 +38,10 @@ r.get('/r/node/new', {
 Checkout the `/example` folders for more examples and advanced usage. Read
 the source code as well (100ish LOC).
 
+### alternatives
+
+If you want a fully-featured JavaScript wrapper for the reddit API use https://github.com/not-an-aardvark/snoowrap instead.
+
 ### license MIT
 
 https://alessioalex.mit-license.org/
