@@ -118,6 +118,8 @@ module.exports = class RedditClient {
               return this[method](url, opts, cb);
             }
 
+            this._tokenRetries = 0;
+
             cb(err, res);
           });
         });
